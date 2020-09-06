@@ -1,3 +1,4 @@
+theme: jekyll-theme-midnight
 name: Project Sirens
 exclude:
     README.md
