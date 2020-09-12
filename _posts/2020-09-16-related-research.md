@@ -1,8 +1,9 @@
 ---
 title: Related Research, Markets, and More
 layout: post
+published: false
 ---
-Losely Related Research and Patents:
+= Losely Related Research and Patents:
 - [https://dl.acm.org/doi/abs/10.1145/1983302.1983311?casa_token=xDq5mISGRYsAAAAA%3At-Qg6wVDjR5s4Zx0HE8uWE_5yCu7p343iMyEhGf0_X4YgcNZTzTRGQdm2TeCUAFk-SPbE8OEG8Lg9A](https://dl.acm.org/doi/abs/10.1145/1983302.1983311?casa_token=xDq5mISGRYsAAAAA%3At-Qg6wVDjR5s4Zx0HE8uWE_5yCu7p343iMyEhGf0_X4YgcNZTzTRGQdm2TeCUAFk-SPbE8OEG8Lg9A)
 - [https://www.researchgate.net/publication/267403944_Game_Not_Over_Accessibility_Issues_in_Video_Games](https://www.researchgate.net/publication/267403944_Game_Not_Over_Accessibility_Issues_in_Video_Games)
 - [https://dl.acm.org/doi/abs/10.1145/2207676.2208564?casa_token=pIodSK5jDX4AAAAA:-HplyNAC5p7QNmxoNniDDVF5dopj73V249ctBxon3AeEZoNWi8hH6KRzouj6YT5QJc_qqXZlesyAfQ](https://dl.acm.org/doi/abs/10.1145/2207676.2208564?casa_token=pIodSK5jDX4AAAAA:-HplyNAC5p7QNmxoNniDDVF5dopj73V249ctBxon3AeEZoNWi8hH6KRzouj6YT5QJc_qqXZlesyAfQ)
@@ -34,3 +35,15 @@ Losely Related Research and Patents:
 - [https://patents.google.com/patent/US5393073A/en](https://patents.google.com/patent/US5393073A/en)
 - [https://patents.google.com/patent/US5358259A/en](https://patents.google.com/patent/US5358259A/en)
 - [https://patents.google.com/patent/US5393070A/en](https://patents.google.com/patent/US5393070A/en)
+
+After finding these related research articles, I did a deeper dive of five articles and summurized them below:
+1.
+2.
+3.
+4.
+5.
+
+= Market Research
+My research falls predomintly under the entertainment or technology sector. The entertainment sector had a global value of 2.1 trillion dollars in 2018 according to [https://www.statista.com/statistics/237749/value-of-the-global-entertainment-and-media-market/](https://www.statista.com/statistics/237749/value-of-the-global-entertainment-and-media-market/), and the technology sector had a value of 2.9 trillion dollars in 2016 according to [https://www.statista.com/statistics/886397/total-tech-spending-worldwide/](https://www.statista.com/statistics/886397/total-tech-spending-worldwide/). Some of the big players in the industry are Nintendo ($2.2B), Ubisoft ($0.5B), Microsoft ($2.8B), Sony ($3.8B), and Electronic Arts ($1.5B) (These are from Q4 2019 Revenue). Some of these businesses (Nintendo, Microsoft, Sony) generate revenue from more than just game developement, which may partly explain the large discrepancy. There are several older products known for voice commands, such as Nintendogs, Tom Clancy's EndWar, and the VoiceGaming SDK. There appear to be a few newer products as well such as There Came An Echo and The Broken Seal.
+
+= Stakeholders/Audience
