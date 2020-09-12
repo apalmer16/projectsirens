@@ -21,7 +21,7 @@
         <div id="title">
           <h1>{{ page.title }}</h1>
           <hr>
-          <p>Published on {{ post.date }}</p>
+          <p>Published on {{ page.date }}</p>
         </div>
 
         {{ content }}
@@ -31,7 +31,7 @@
             <a class="previous" href="/projectsirens{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
           {% endif %}
           {% if page.next.url %}
-            <a class="next" href="/projectsirens{{page.next.url}}">{{page.next.title}} &raquo;</a>
+            <a class="next" href="/projectsirens{{page.next.url}}" style="float:right;">{{page.next.title}} &raquo;</a>
           {% endif %}
         </div>
 
