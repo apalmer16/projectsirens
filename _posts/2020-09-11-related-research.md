@@ -4,7 +4,7 @@ layout: post
 ---
 Losely Related Research and Patents:
 - [https://dl.acm.org/doi/abs/10.1145/1983302.1983311?casa_token=xDq5mISGRYsAAAAA%3At-Qg6wVDjR5s4Zx0HE8uWE_5yCu7p343iMyEhGf0_X4YgcNZTzTRGQdm2TeCUAFk-SPbE8OEG8Lg9A](https://dl.acm.org/doi/abs/10.1145/1983302.1983311?casa_token=xDq5mISGRYsAAAAA%3At-Qg6wVDjR5s4Zx0HE8uWE_5yCu7p343iMyEhGf0_X4YgcNZTzTRGQdm2TeCUAFk-SPbE8OEG8Lg9A)
-- [https://www.researchgate.net/profile/Kevin_Bierre/publication/267403944_Game_Not_Over_Accessibility_Issues_in_Video_Games/links/546de0d70cf2a7492c560d87.pdf](https://www.researchgate.net/profile/Kevin_Bierre/publication/267403944_Game_Not_Over_Accessibility_Issues_in_Video_Games/links/546de0d70cf2a7492c560d87.pdf)
+- [https://researchgate.net/profile/Kevin_Bierre/publication/267403944_Game_Not_Over_Accessibility_Issues_in_Video_Games/links/546de0d70cf2a7492c560d87.pdf](https://www.researchgate.net/profile/Kevin_Bierre/publication/267403944_Game_Not_Over_Accessibility_Issues_in_Video_Games/links/546de0d70cf2a7492c560d87.pdf)
 - [https://dl.acm.org/doi/abs/10.1145/2207676.2208564?casa_token=pIodSK5jDX4AAAAA:-HplyNAC5p7QNmxoNniDDVF5dopj73V249ctBxon3AeEZoNWi8hH6KRzouj6YT5QJc_qqXZlesyAfQ](https://dl.acm.org/doi/abs/10.1145/2207676.2208564?casa_token=pIodSK5jDX4AAAAA:-HplyNAC5p7QNmxoNniDDVF5dopj73V249ctBxon3AeEZoNWi8hH6KRzouj6YT5QJc_qqXZlesyAfQ)
 - [https://www.sciencedirect.com/science/article/abs/pii/S0957417412005908](https://www.sciencedirect.com/science/article/abs/pii/S0957417412005908)
 - [https://www.aaai.org/Papers/Symposia/Spring/2002/SS-02-01/SS02-01-003.pdf](https://www.aaai.org/Papers/Symposia/Spring/2002/SS-02-01/SS02-01-003.pdf)
