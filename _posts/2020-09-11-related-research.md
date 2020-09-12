@@ -1,5 +1,6 @@
 ---
 title: Related Research, Markets, and More
+layout: post
 ---
 Losely Related Research and Patents:
 - [https://dl.acm.org/doi/abs/10.1145/1983302.1983311?casa_token=xDq5mISGRYsAAAAA%3At-Qg6wVDjR5s4Zx0HE8uWE_5yCu7p343iMyEhGf0_X4YgcNZTzTRGQdm2TeCUAFk-SPbE8OEG8Lg9A](https://dl.acm.org/doi/abs/10.1145/1983302.1983311?casa_token=xDq5mISGRYsAAAAA%3At-Qg6wVDjR5s4Zx0HE8uWE_5yCu7p343iMyEhGf0_X4YgcNZTzTRGQdm2TeCUAFk-SPbE8OEG8Lg9A)
