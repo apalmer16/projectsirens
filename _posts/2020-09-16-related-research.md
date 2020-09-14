@@ -8,10 +8,9 @@ published: false
 - [https://www.researchgate.net/publication/267403944_Game_Not_Over_Accessibility_Issues_in_Video_Games](https://www.researchgate.net/publication/267403944_Game_Not_Over_Accessibility_Issues_in_Video_Games)
 - [https://dl.acm.org/doi/abs/10.1145/2207676.2208564?casa_token=pIodSK5jDX4AAAAA:-HplyNAC5p7QNmxoNniDDVF5dopj73V249ctBxon3AeEZoNWi8hH6KRzouj6YT5QJc_qqXZlesyAfQ](https://dl.acm.org/doi/abs/10.1145/2207676.2208564?casa_token=pIodSK5jDX4AAAAA:-HplyNAC5p7QNmxoNniDDVF5dopj73V249ctBxon3AeEZoNWi8hH6KRzouj6YT5QJc_qqXZlesyAfQ)
 - [https://www.sciencedirect.com/science/article/abs/pii/S0957417412005908](https://www.sciencedirect.com/science/article/abs/pii/S0957417412005908)
-- [https://www.aaai.org/Papers/Symposia/Spring/2002/SS-02-01/SS02-01-003.pdf](https://www.aaai.org/Papers/Symposia/Spring/2002/SS-02-01/SS02-01-003.pdf)
-- [https://dl.acm.org/doi/abs/10.1145/3267851.3267896?casa_token=4KbGvh0lQWkAAAAA:VKqb0ICftlqvzAWrZPEakPv8VZHXm-dC7cxTeSj-uoAJmV0o34CtE05R0xPZjl3ggyGFlC00ZcSlZw](https://dl.acm.org/doi/abs/10.1145/3267851.3267896?casa_token=4KbGvh0lQWkAAAAA:VKqb0ICftlqvzAWrZPEakPv8VZHXm-dC7cxTeSj-uoAJmV0o34CtE05R0xPZjl3ggyGFlC00ZcSlZw)
+- [https://www.researchgate.net/publication/328215976_Spoken_Conversational_AI_in_Video_Games-Emotional_Dialogue_Management_Increases_User_Engagement](https://www.researchgate.net/publication/328215976_Spoken_Conversational_AI_in_Video_Games-Emotional_Dialogue_Management_Increases_User_Engagement)
 - [https://www.aaai.org/Papers/Symposia/Spring/1999/SS-99-02/SS99-02-002.pdf](https://www.aaai.org/Papers/Symposia/Spring/1999/SS-99-02/SS99-02-002.pdf)
-- [https://dl.acm.org/doi/abs/10.1145/2793107.2793144?casa_token=9HoFU-98EKIAAAAA:9eC7PWeJ0kiMH4zUiBeCNkkEwiiBc-oKkigxbhGV67yS0SdMALPUIuoZ4aQ-IkcpnMxNuUN94YAggg](https://dl.acm.org/doi/abs/10.1145/2793107.2793144?casa_token=9HoFU-98EKIAAAAA:9eC7PWeJ0kiMH4zUiBeCNkkEwiiBc-oKkigxbhGV67yS0SdMALPUIuoZ4aQ-IkcpnMxNuUN94YAggg)
+- [https://www.researchgate.net/publication/301417670_Player_Identity_Dissonance_and_Voice_Interaction_in_Games](https://www.researchgate.net/publication/301417670_Player_Identity_Dissonance_and_Voice_Interaction_in_Games)
 - [https://link.springer.com/chapter/10.1007/978-3-319-07308-8_19](https://link.springer.com/chapter/10.1007/978-3-319-07308-8_19)
 - [https://ieeexplore.ieee.org/abstract/document/5558606](https://ieeexplore.ieee.org/abstract/document/5558606)
 - [https://dl.acm.org/doi/abs/10.1145/985921.986170?casa_token=T7qxgvxmGuMAAAAA:RRmPAdDemV_IO0BhXHK59IIXM0Ql-KXG_gHbTwupJsy8yR5tH9uH_G84MIxRl33w8Jpdp6Zlb4hy9g](https://dl.acm.org/doi/abs/10.1145/985921.986170?casa_token=T7qxgvxmGuMAAAAA:RRmPAdDemV_IO0BhXHK59IIXM0Ql-KXG_gHbTwupJsy8yR5tH9uH_G84MIxRl33w8Jpdp6Zlb4hy9g)
@@ -36,12 +35,12 @@ published: false
 - [https://patents.google.com/patent/US5358259A/en](https://patents.google.com/patent/US5358259A/en)
 - [https://patents.google.com/patent/US5393070A/en](https://patents.google.com/patent/US5393070A/en)
 
-After finding these related research articles, I did a deeper dive of five articles and summurized them below:
-1.
-2.
-3.
-4.
-5.
+After finding these related research articles, I did a deeper dive of five articles and summarized them below:
+1. [Spoken Conversational AI in Video Games: Emotional Dialogue Management Increases User Engagement](https://www.researchgate.net/publication/328215976_Spoken_Conversational_AI_in_Video_Games-Emotional_Dialogue_Management_Increases_User_Engagement)
+2. [“Situated AI” in Video Games: Integrating NLP, Path Planning and 3D Animation](https://www.aaai.org/Papers/Symposia/Spring/1999/SS-99-02/SS99-02-002.pdf)
+3. [Immersion in Multimodal Gaming: Playing World of Warcraft with Voice Controls](https://hci.stanford.edu/courses/cs376/2008/project_results/ricciardi_john_cs376_spring08_multimodal_gaming.pdf)
+4. [Rabbit Run: Gaze and Voice Based Game Interaction](https://www.semanticscholar.org/paper/Rabbit-Run%3A-Gaze-and-Voice-Based-Game-Interaction-Sundstedt/bf0651a38e1ba076b96b20add8a834a8af26be8a?p2df)
+5. [Player Identity Dissonance and Voice Interaction in Games](https://www.researchgate.net/publication/301417670_Player_Identity_Dissonance_and_Voice_Interaction_in_Games)
 
 = Market Research
 My research falls predomintly under the entertainment or technology sector. The entertainment sector had a global value of 2.1 trillion dollars in 2018 according to [https://www.statista.com/statistics/237749/value-of-the-global-entertainment-and-media-market/](https://www.statista.com/statistics/237749/value-of-the-global-entertainment-and-media-market/), and the technology sector had a value of 2.9 trillion dollars in 2016 according to [https://www.statista.com/statistics/886397/total-tech-spending-worldwide/](https://www.statista.com/statistics/886397/total-tech-spending-worldwide/). Some of the big players in the industry are Nintendo ($2.2B), Ubisoft ($0.5B), Microsoft ($2.8B), Sony ($3.8B), and Electronic Arts ($1.5B) (These are from Q4 2019 Revenue). Some of these businesses (Nintendo, Microsoft, Sony) generate revenue from more than just game developement, which may partly explain the large discrepancy. There are several older products known for voice commands, such as Nintendogs, Tom Clancy's EndWar, and the VoiceGaming SDK. There appear to be a few newer products as well such as There Came An Echo and The Broken Seal.
