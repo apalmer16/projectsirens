@@ -36,9 +36,9 @@ published: false
 - [https://patents.google.com/patent/US5393070A/en](https://patents.google.com/patent/US5393070A/en)
 
 After finding these related research articles, I did a deeper dive of five articles and summarized them below:
-1. [Spoken Conversational AI in Video Games: Emotional Dialogue Management Increases User Engagement](https://www.researchgate.net/publication/328215976_Spoken_Conversational_AI_in_Video_Games-Emotional_Dialogue_Management_Increases_User_Engagement)
-2. [“Situated AI” in Video Games: Integrating NLP, Path Planning and 3D Animation](https://www.aaai.org/Papers/Symposia/Spring/1999/SS-99-02/SS99-02-002.pdf)
-3. [Immersion in Multimodal Gaming: Playing World of Warcraft with Voice Controls](https://hci.stanford.edu/courses/cs376/2008/project_results/ricciardi_john_cs376_spring08_multimodal_gaming.pdf)
+1. [Spoken Conversational AI in Video Games: Emotional Dialogue Management Increases User Engagement](https://www.researchgate.net/publication/328215976_Spoken_Conversational_AI_in_Video_Games-Emotional_Dialogue_Management_Increases_User_Engagement) - They found that a voice system that also incorporated emotion detection was considered more enjoyable and immersive then a regular voice system without the emotion detection.
+2. [“Situated AI” in Video Games: Integrating NLP, Path Planning and 3D Animation](https://www.aaai.org/Papers/Symposia/Spring/1999/SS-99-02/SS99-02-002.pdf) - They seemed to be arguing that a voice system in video games should use Natural Language Processing on the voice commands.
+3. [Immersion in Multimodal Gaming: Playing World of Warcraft with Voice Controls](https://hci.stanford.edu/courses/cs376/2008/project_results/ricciardi_john_cs376_spring08_multimodal_gaming.pdf) - There were a few potential flaws with the design of the study, which were pointed out, but it seemed cognitive load has an impact on immersion, as measured by fixation duration.
 4. [Rabbit Run: Gaze and Voice Based Game Interaction](https://www.semanticscholar.org/paper/Rabbit-Run%3A-Gaze-and-Voice-Based-Game-Interaction-Sundstedt/bf0651a38e1ba076b96b20add8a834a8af26be8a?p2df)
 5. [Player Identity Dissonance and Voice Interaction in Games](https://www.researchgate.net/publication/301417670_Player_Identity_Dissonance_and_Voice_Interaction_in_Games)
 
