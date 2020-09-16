@@ -3,6 +3,7 @@ title: Related Research, Markets, and More
 layout: post
 ---
 = Loosely Related Research and Patents:
+
 - [https://dl.acm.org/doi/abs/10.1145/1983302.1983311?casa_token=xDq5mISGRYsAAAAA%3At-Qg6wVDjR5s4Zx0HE8uWE_5yCu7p343iMyEhGf0_X4YgcNZTzTRGQdm2TeCUAFk-SPbE8OEG8Lg9A](https://dl.acm.org/doi/abs/10.1145/1983302.1983311?casa_token=xDq5mISGRYsAAAAA%3At-Qg6wVDjR5s4Zx0HE8uWE_5yCu7p343iMyEhGf0_X4YgcNZTzTRGQdm2TeCUAFk-SPbE8OEG8Lg9A)
 - [https://www.researchgate.net/publication/267403944_Game_Not_Over_Accessibility_Issues_in_Video_Games](https://www.researchgate.net/publication/267403944_Game_Not_Over_Accessibility_Issues_in_Video_Games)
 - [https://dl.acm.org/doi/abs/10.1145/2207676.2208564?casa_token=pIodSK5jDX4AAAAA:-HplyNAC5p7QNmxoNniDDVF5dopj73V249ctBxon3AeEZoNWi8hH6KRzouj6YT5QJc_qqXZlesyAfQ](https://dl.acm.org/doi/abs/10.1145/2207676.2208564?casa_token=pIodSK5jDX4AAAAA:-HplyNAC5p7QNmxoNniDDVF5dopj73V249ctBxon3AeEZoNWi8hH6KRzouj6YT5QJc_qqXZlesyAfQ)
@@ -42,7 +43,9 @@ After finding these related research articles, I did a deeper dive of five artic
 5. [Player Identity Dissonance and Voice Interaction in Games](https://www.researchgate.net/publication/301417670_Player_Identity_Dissonance_and_Voice_Interaction_in_Games) - Games where the voice commands are things the player believes would be said by the player instead of actions were liked better by players, based on this study.
 
 = Market Research
+
 My research falls predominantly under the entertainment or technology sector. The entertainment sector had a global value of 2.1 trillion dollars in 2018 according to [https://www.statista.com/statistics/237749/value-of-the-global-entertainment-and-media-market/](https://www.statista.com/statistics/237749/value-of-the-global-entertainment-and-media-market/), and the technology sector had a value of 2.9 trillion dollars in 2016 according to [https://www.statista.com/statistics/886397/total-tech-spending-worldwide/](https://www.statista.com/statistics/886397/total-tech-spending-worldwide/). Some of the big players in the industry are Nintendo ($2.2B), Ubisoft ($0.5B), Microsoft ($2.8B), Sony ($3.8B), and Electronic Arts ($1.5B) (These are from Q4 2019 Revenue). Some of these businesses (Nintendo, Microsoft, Sony) generate revenue from more than just game development, which may partly explain the large discrepancy. There are several older products known for voice commands, such as Nintendogs, Tom Clancy's EndWar, and the VoiceGaming SDK. There appear to be a few newer products as well such as There Came An Echo and The Broken Seal.
 
 = Stakeholders/Audience
+
 Any video game company could potentially benefit, though the main benefit would be to smaller, "indie" game dev companies. As the main benefit would go to these smaller companies, they have to be very aware of costs related to using it. Therefore it makes the most sense to use the free speech-to-text api available at [wit.ai](https://wit.ai) instead of one of the larger products such  as google's speech-to-text. Additionally, they might not have the best of technology available, so whatever I build should work for lower end systems as well.
