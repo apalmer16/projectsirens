@@ -12,4 +12,7 @@ I proceded to test how well it is doing by running the command `curl -H 'Authori
 
 After noting this information, I opened the [wit.ai](https://wit.ai) dashboard and found the new utterance in there and was able to easily add it to the utterances already present. I proceded to add several more variations using this process to help improve the accuracy.
 
-I proceeded to start sending actual voice commands through by recording the audio in Voice Recorder, converting to mp3, and sending that via a curl request like this: `curl -XPOST 'https://api.wit.ai/speech?v=20200513' -i -L -H "Authorization: Bearer $TOKEN" -H "Content-Type: audio/mpeg3" --data-binary "@Recording.mp3"`. Through this process I brought the number of trained examples to 21.
+I proceeded to start sending actual voice commands through by recording the audio in Voice Recorder, converting to mp3, and sending that via a curl request like this: `curl -XPOST 'https://api.wit.ai/speech?v=20200513' -i -L -H "Authorization: Bearer $TOKEN" -H "Content-Type: audio/mpeg3" --data-binary "@Recording.mp3"`. Through this process I brought the number of trained examples to 33.
+
+From this I've learned that it needs as much data as possible, which means if this is to be officially used, data from testing phases should be used to improve the reliability of the NLP and voice-to-text system through the method above. It also would be quite valuable to port the app data to similar projects, so a company that produces mainly one type of game could use that data over again to improve the starting quality of their voice command system in their next game.
+
