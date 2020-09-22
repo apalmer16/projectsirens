@@ -16,3 +16,4 @@ I proceeded to start sending actual voice commands through by recording the audi
 
 From this I've learned that it needs as much data as possible, which means if this is to be officially used, data from testing phases should be used to improve the reliability of the NLP and voice-to-text system through the method above. It also would be quite valuable to port the app data to similar projects, so a company that produces mainly one type of game could use that data over again to improve the starting quality of their voice command system in their next game.
 
+The next steps I plan on taking are creating some more intents and continuing to set up some C# code that interfaces with the API.
