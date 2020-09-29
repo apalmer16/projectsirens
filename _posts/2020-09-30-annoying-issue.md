@@ -9,4 +9,4 @@ The next step was to make it so that I could send Unity created audio files thro
 ![Image](https://i.imgur.com/O5ldJu1.png)
 ![Image](https://i.imgur.com/gYkqkMv.png)
 This lead to me undoing the saving and just trying to send through a previously created wav file in Unity.
-I tried to troubleshoot this issue and was unable to figure out a reason. Therefore I started to investigate converting the audioclip to mp3.
+I tried to troubleshoot this issue and was unable to figure out a reason. Therefore I started to investigate converting the audioclip to mp3. Everything I could find for free required the audio clip to already be in wav format, which was untrue  of my created recording. Therefore I turned to converting the saved wav file to mp3 using the CSAudioConverter library. I ran into an error I could not make sense of, and now am waiting on their support to get back to me.
