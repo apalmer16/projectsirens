@@ -11,3 +11,6 @@ I started this week looking into Newtonsoft's JSON parser, as recommended. After
 
 # Forward Charge
 With the mess cleaned up, I moved onward to set up a way of interacting with this input. I decided upon using a delegate to handle this. As it was my first time using delegates, it took me a bit to understand how they work, but after an hour I had it working and was able to set the delegate to a function that logs the intent and entity bodies. With the knowledge that my delegate was working, the next step was to set up a simple game that actually uses this information.
+
+# Bug Hunting
+To test how well this system operates, I began to create a simple game where, using voice controls, you try to capture bugs with your bug hunting robots. This simple game uses a chessboard for layout, with some squares greyed out to limit movement. It also will have Unity Analytics set up to help me calculate some reliability and other metrics.
