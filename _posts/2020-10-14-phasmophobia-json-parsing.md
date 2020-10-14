@@ -14,4 +14,4 @@ With the mess cleaned up, I moved onward to set up a way of interacting with thi
 # Bug Hunting
 To test how well this system operates, I began to create a simple game where, using voice controls, you try to capture bugs with your bug hunting robots. This simple game uses a chessboard for layout, with black bars to act as interior walls that limit movement (such as the example below).
 ![Bug Hunter Screenshot](https://i.imgur.com/wLfugyd.png)
-I plan to finish building this game before next week, and hopefully have Unity Analytics in it as well to check success rate and other important information.
+I plan to continue building this game before next week, and hopefully have Unity Analytics in it as well to check success rate and other important information. There might be a potential issue with the grid system as well, which I will confirm this coming week after I finished the related backend.
