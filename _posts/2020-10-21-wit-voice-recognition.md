@@ -12,3 +12,9 @@ While waiting on a response, I decided to spend some time thinking if there are 
 2. A landmark-based system (ie forest on the right), may be good, but likely hard to implement or slow to use.
 
 Therefore I began testing if wit.ai could handle these two possibilities.
+
+# Coordinate-grid System
+I spent an hour and a half trying different possible coordinate grid values, and it was correct 61/66 times. Difficulties included (1, 1), (2, 2), (-5, 5), (1, -1), (-4, -4). However this difficulty only occured the first time I said these values, as the second try (after training and correcting) was correct.
+
+# Landmark-based System
+This one seems reliable from the hour of tests, however it could be hard to implement and actual system that would use it.
