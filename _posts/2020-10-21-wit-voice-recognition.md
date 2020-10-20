@@ -17,4 +17,4 @@ Therefore I began testing if wit.ai could handle these two possibilities.
 I spent an hour and a half trying different possible coordinate grid values, and it was correct 61/66 times. Difficulties included (1, 1), (2, 2), (-5, 5), (1, -1), (-4, -4). However this difficulty only occured the first time I said these values, as the second try (after training and correcting) was correct.
 
 # Landmark-based System
-This one seems reliable from the hour of tests, however it could be hard to implement and actual system that would use it.
+This one seems reliable from the hour of tests, however it could be hard to implement an actual system that would use it.
