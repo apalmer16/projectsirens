@@ -22,3 +22,5 @@ I spent an hour designing some simple models for the RTS units.
 ![Image](https://i.imgur.com/0pY8YcC.png)
 
 Then while trying to set up the map, I was having issues with materials, so I updated my Unity version to the most recent of the 2019 versions. Then I realized it was likely because of my new setup, as it was appearing on my other monitor (that unity wasn't on). After I solved that I resumed building the map and setting up the movement control.
+
+First I set it up so that one unit could be moved at a time. Next I modified it so that if a troop name wasn't provided, it would move the previous unit. Then I modified it yet again so that multiple units could be moved at once.
