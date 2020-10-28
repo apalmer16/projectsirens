@@ -1,7 +1,6 @@
 ---
 title: Voice Attack Interview and Coordinate RTS Game
 layout: post
-published: false
 ---
 # Voice Attack Interview
 I got an email response from the author of Voice Attack (Gary Magenheimer). In short, using the Windows speech engine is easy and reliable for phrase-driven recognition, but not dictation. They also said a cloud-based solution would be wonderful, however the cost of most these systems doesn't encourage their use. Below is the more thorough response.
