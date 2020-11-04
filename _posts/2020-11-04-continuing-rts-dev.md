@@ -16,3 +16,4 @@ I then began to think on if I should have the backgound of the bubble be the hea
 
 # Units, ATTACK!
 Next, I added a new intent to my wit.ai project for attack, and began training it on sample utterances (both as text and voice). Additionally I began to create the attack scripts.
+However, in the space of a day their voice to text seems to have went to complete sh-t and I was becoming very flustrated with the project.
