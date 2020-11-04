@@ -1,7 +1,6 @@
 ---
 title: Continued RTS Game Developement
 layout: post
-published: false
 ---
 
 # Camera Controls
