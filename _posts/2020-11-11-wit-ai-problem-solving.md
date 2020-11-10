@@ -14,3 +14,7 @@ Since all my previous attack commands had been of the form "<unit_name> attack <
 
 # Web Captioner Research
 I also spent some time looking into what Web Captioner uses as suggested by Prof. Austin Yarger. They use Web Speech API for their voice-to-text. However, it isn't like a normal API. It is the type of API that is ONLY usable by browsers (and only certain ones at that), much like setTimeout, setInterval, etc. Therefore I don't believe it is of any use to me, though in theory it could be used in a webgl build (not exactly sure how though).
+
+# Trial and Attack
+Attack commands of the form "<unit_name> attack <target>" still are failing. Therefore I decided to test attack commands of the form "Attack <target> with <unit_name(s)>".
+While this did work more often, it was still failing more often than the top two types of movement commands.
