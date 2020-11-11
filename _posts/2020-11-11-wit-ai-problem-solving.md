@@ -1,6 +1,6 @@
 ---
 title: The End For Project Siren?
-layout: published
+layout: post
 ---
 
 # Wit.AI and Last Weeks Issues
@@ -19,4 +19,4 @@ Attack commands of the form "<unit_name> attack <target>" still are failing. The
 While this did work more often, it was still failing more often than the top two types of movement commands.
 
 # Next Steps
-At this point I'm not sure what to do regarding voice commands. Should I stick with wit.ai despite the failings as there are no other free crossplatform voice-to-text systems? Should I switch it to use Windows speech which supposedly works better, but would limit the game to Windows only? As I struggled with this question, I continued to work on attack scripts which are independant of the voice system, as well as Adjusting the forward of the name bubbles to be the camera position.
+At this point I'm not sure what to do regarding voice commands. Should I stick with wit.ai despite the failings as there are no other free crossplatform voice-to-text systems? Should I switch it to use Windows speech which supposedly works better, but would limit the game to Windows only? As I struggled with this question, I continued to work on attack scripts which are independant of the voice system, as well as adjusting the forward of the name bubbles to be the camera position.
