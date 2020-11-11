@@ -1,5 +1,5 @@
 ---
-title: The End For Project Siren?
+title: A Thorough Investigation
 layout: post
 ---
 
