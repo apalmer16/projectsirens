@@ -1,7 +1,6 @@
 ---
 title: The End For Project Siren?
 layout: published
-published: false
 ---
 
 # Wit.AI and Last Weeks Issues
