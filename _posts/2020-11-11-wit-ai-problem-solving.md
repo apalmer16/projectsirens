@@ -18,3 +18,6 @@ I also spent some time looking into what Web Captioner uses as suggested by Prof
 # Trial and Attack
 Attack commands of the form "<unit_name> attack <target>" still are failing. Therefore I decided to test attack commands of the form "Attack <target> with <unit_name(s)>".
 While this did work more often, it was still failing more often than the top two types of movement commands.
+
+# Next Steps
+At this point I'm not sure what to do regarding voice commands. Should I stick with wit.ai despite the failings as there are no other free crossplatform voice-to-text systems? Should I switch it to use Windows speech which supposedly works better, but would limit the game to Windows only? As I struggled with this question, I continued to work on attack scripts which are independant of the voice system.
