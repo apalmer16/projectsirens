@@ -11,3 +11,6 @@ I then had to adjust my troop controller to take a string instead of the wit res
 I spent 30 minutes adjusting the tank attack so that it appears as below. ![Image](https://i.imgur.com/rfLbuTz.gif)
 
 Afterwards I spent 30 minutes adjusting the squad unit's attack to appear as below. ![Image](https://i.imgur.com/aZUbJ5u.gif)
+
+# In-Game UI
+Next I began to build a in-game UI for the purpose of giving feedback when commands don't work. Using the Event Bus from 494, I set up a pub/sub system to handle the transmitions, and this system can also be used for the tutorial (2.5 hours). An example of what happens when it goes off is included below. ![Image](https://i.imgur.com/ZSCMMTO.gif)
