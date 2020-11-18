@@ -14,3 +14,6 @@ Afterwards I spent 30 minutes adjusting the squad unit's attack to appear as bel
 
 # In-Game UI
 Next I began to build a in-game UI for the purpose of giving feedback when commands don't work. Using the Event Bus from 494, I set up a pub/sub system to handle the transmitions, and this system can also be used for the tutorial (2.5 hours). An example of what happens when it goes off is included below. ![Image](https://i.imgur.com/ZSCMMTO.gif)
+
+# Health Bar
+I then began turning the background of the name bubbles to be the health bar which took half an hour and look like this: ![Image](https://i.imgur.com/M4LJrf4.gif)
