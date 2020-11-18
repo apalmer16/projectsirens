@@ -10,4 +10,4 @@ I then had to adjust my troop controller to take a string instead of the wit res
 # More Attack Work
 I spent 30 minutes adjusting the tank attack so that it appears as below. ![Image](https://i.imgur.com/rfLbuTz.gif)
 
-Afterwards I spent X time adjusting the squad unit's attack to appear as below. ![Image](src)
+Afterwards I spent 30 minutes adjusting the squad unit's attack to appear as below. ![Image](https://i.imgur.com/aZUbJ5u.gif)
